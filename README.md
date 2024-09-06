@@ -1,0 +1,1 @@
+Hello , I'm omar i am very passionate about Red Teaming and cybersecurity. This is the first tool I have created, and this is its first release, and I promise you, God willing, I will update you on it. Peace be upon you.
